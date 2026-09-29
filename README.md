@@ -38,7 +38,12 @@ The image classifier was built using a fine-tuned ResNet18 model.
 - Pygame
 - NumPy
 
-## Author
+## Screenshots
 
+![Lubb Home Page](images/home.png)
+
+## Author
+**Shaima Nabeel Albokhari**  
+Computer Science Graduate | Data & AI
 **Shaima Nabeel Albokhari**  
 Computer Science Graduate | Data & AI
